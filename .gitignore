@@ -1,0 +1,10 @@
+# Repo này CHỈ chứa trang phiếu công khai.
+# Tuyệt đối không đưa dữ liệu nhân sự hay tài liệu nội bộ vào đây.
+*.csv
+*.xlsx
+*.xls
+*.xlsm
+*.docx
+*.pdf
+__pycache__/
+.DS_Store
